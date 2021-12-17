@@ -1,0 +1,8 @@
+nav.navbar.navbar-active {
+    margin-bottom: 0;
+  }
+
+nav.active {
+  margin-bottom: 0;
+  color: purple;
+}
